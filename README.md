@@ -1,4 +1,4 @@
-# BepInEx Documentation
+# BepInEx Documentation（翻译中）
 
 This is the repo for storing documentation related to [BepInEx](https://github.com/BepInEx/BepInEx).  
 
