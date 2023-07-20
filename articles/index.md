@@ -1,23 +1,20 @@
----
-title: BepInEx Guide Index
----
+# BepInEx 教程
 
-# BepInEx Guide Index
+欢迎来到 BepInEx 文档！
 
-Welcome to BepInEx documentation pages! Please refer to the navigation menu on the left for all specific guides!
+## BepInEx 是什么
 
-## What is BepInEx
+BepInEx (Bepis Injector Extendable) 是一个针对基于 Unity 和 .NET 框架的游戏的插件框架。
 
-BepInEx (Bepis Injector Extendable) is a plugin framework aimed at Unity and .NET Framework games. 
-The main goal of BepInEx is
+BepInEx 的目标：
 
-* to be simple to install and use for end-users;
-* provide necessary tools for modding;
-* be small and easily portable to as many different Unity games as possible.
+* 对使用者们友好，易于安装与使用；
+* 为模组制作提供必要的工具；
+* 体积小巧，尽可能支持多的 Unity 游戏。
 
-While BepInEx is mainly aimed at PC games running on Windows, BepInEx can be installed on Linux, macOS, and any other operating system that either supports Mono or Windows emulation.
+虽然 BepInEx 主要针对的是运行在 Windows 操作系统上的游戏，但 BepInEx 也能够在 Linux、macOS 以及其它支持 Mono 或仿 Windows 的操作系统上运行。
 
-## What BepInEx is not
+## BepInEx 不是什么
 
 Currently, BepInEx does not aim to be the solution for modding all games with .NET support on all platforms.
 This limitation allows BepInEx to be small and simple to install while still working on as many games as possible.
